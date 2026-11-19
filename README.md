@@ -13,9 +13,7 @@ Hi 👋 I'm Parsa
 
 •Python
 
-
 •Git & GitHub
-
 
 •Data Structures
 
@@ -23,16 +21,11 @@ Hi 👋 I'm Parsa
 
 🚀 Projects:
 
-
 •Programming Fundamentals
-
 
 •ICT Assignments
 
-
 •Python Projects
-
-
 
 
 📍Azad Kashmir, Muzaffarabad
