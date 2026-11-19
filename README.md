@@ -11,26 +11,26 @@ Hi 👋 I'm Parsa
 🌱 Currently Learning:
 
 
-Python
+•Python
 
 
-Git & GitHub
+•Git & GitHub
 
 
-Data Structures
+•Data Structures
 
 
 
 🚀 Projects:
 
 
-Programming Fundamentals
+•Programming Fundamentals
 
 
-ICT Assignments
+•ICT Assignments
 
 
-Python Projects
+•Python Projects
 
 
 
