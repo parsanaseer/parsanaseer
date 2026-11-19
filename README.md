@@ -7,12 +7,14 @@ Hi 👋 I'm Parsa
 
 
 🌱 Currently Learning:
+
     •Python
     •Git & GitHub
     •Data Structures
 
 
 🚀 Projects:
+
     •Programming Fundamentals
     •ICT Assignments
     •Python Projects
