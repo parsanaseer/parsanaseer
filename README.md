@@ -16,8 +16,8 @@ Data Structures
 
 
 🚀 Projects:
-Programming Fundamentals
-ICT Assignments
+Programming Fundamentals,
+ICT Assignments,
 Python Projects
 
 
